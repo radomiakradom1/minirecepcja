@@ -1,0 +1,7 @@
+mateusz;rdzanek;wietnammarcin017@gmail.com;757843123;2024-11-16
+daniel ;rogal;daniel.rogus2009@gmail.com;997 606 456;2024-11-15
+daniel;rogal;daniel.rogus2009@gmail.com;123123123;2024-11-15
+daniel;rogal;daniel.rogus2009@gmail.com;123;2024-11-15
+daniel ;rogal;daniel.rogus2009@gmail.com;997;2024-11-29
+daniel;rogal;daniel.rogus2009@gmail.com;997 606 456;2024-11-29
+daniel;rogal;daniel.rogus2009@gmail.com;234;2024-11-30

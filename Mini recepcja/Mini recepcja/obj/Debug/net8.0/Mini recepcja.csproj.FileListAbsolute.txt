@@ -1,0 +1,22 @@
+S:\oprogramowanie\Mini recepcja\bin\Debug\net8.0\Mini recepcja.exe
+S:\oprogramowanie\Mini recepcja\bin\Debug\net8.0\Mini recepcja.deps.json
+S:\oprogramowanie\Mini recepcja\bin\Debug\net8.0\Mini recepcja.runtimeconfig.json
+S:\oprogramowanie\Mini recepcja\bin\Debug\net8.0\Mini recepcja.dll
+S:\oprogramowanie\Mini recepcja\bin\Debug\net8.0\Mini recepcja.pdb
+S:\oprogramowanie\Mini recepcja\obj\Debug\net8.0\Mini recepcja.GeneratedMSBuildEditorConfig.editorconfig
+S:\oprogramowanie\Mini recepcja\obj\Debug\net8.0\Mini recepcja.AssemblyInfoInputs.cache
+S:\oprogramowanie\Mini recepcja\obj\Debug\net8.0\Mini recepcja.AssemblyInfo.cs
+S:\oprogramowanie\Mini recepcja\obj\Debug\net8.0\Mini recepcja.csproj.CoreCompileInputs.cache
+S:\oprogramowanie\Mini recepcja\obj\Debug\net8.0\Mini recepcja.sourcelink.json
+S:\oprogramowanie\Mini recepcja\obj\Debug\net8.0\Mini recepcja.dll
+S:\oprogramowanie\Mini recepcja\obj\Debug\net8.0\refint\Mini recepcja.dll
+S:\oprogramowanie\Mini recepcja\obj\Debug\net8.0\Mini recepcja.pdb
+S:\oprogramowanie\Mini recepcja\obj\Debug\net8.0\Mini recepcja.genruntimeconfig.cache
+S:\oprogramowanie\Mini recepcja\obj\Debug\net8.0\ref\Mini recepcja.dll
+S:\oprogramowanie\Mini recepcja\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+S:\oprogramowanie\Mini recepcja\bin\Debug\net8.0\MailKit.dll
+S:\oprogramowanie\Mini recepcja\bin\Debug\net8.0\MimeKit.dll
+S:\oprogramowanie\Mini recepcja\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+S:\oprogramowanie\Mini recepcja\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+S:\oprogramowanie\Mini recepcja\obj\Debug\net8.0\Mini recepcja.csproj.AssemblyReference.cache
+S:\oprogramowanie\Mini recepcja\obj\Debug\net8.0\Mini rec.0E915ED8.Up2Date
